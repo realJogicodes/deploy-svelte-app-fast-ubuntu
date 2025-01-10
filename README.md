@@ -5,10 +5,10 @@ This repository contains two essential scripts for setting up a production envir
 ## Repository
 
 ```bash
-git clone https://github.com/realJogicodes/deploy-svelte-app-fast-ubunutu.git
+git clone https://github.com/realJogicodes/deploy-svelte-app-fast-ubuntu.git
 ```
 
-Visit the [GitHub Repository](https://github.com/realJogicodes/deploy-svelte-app-fast-ubunutu) for the latest updates and to contribute.
+Visit the [GitHub Repository](https://github.com/realJogicodes/deploy-svelte-app-fast-ubuntu) for the latest updates and to contribute.
 
 ## Scripts Overview
 
@@ -50,7 +50,7 @@ This script sets up the application environment and should be run as the non-roo
 1. First, connect to your VPS as root and download the first setup script:
 
 ```bash
-wget https://raw.githubusercontent.com/realJogicodes/deploy-svelte-app-fast-ubunutu/main/secure-ubuntu-setup.sh
+wget https://raw.githubusercontent.com/realJogicodes/deploy-svelte-app-fast-ubuntu/main/secure-ubuntu-setup.sh
 ```
 
 2. Make the script executable:
@@ -70,7 +70,7 @@ chmod +x secure-ubuntu-setup.sh
 5. Download the second setup script:
 
 ```bash
-wget https://raw.githubusercontent.com/realJogicodes/deploy-svelte-app-fast-ubunutu/main/setup-svelte-environment.sh
+wget https://raw.githubusercontent.com/realJogicodes/deploy-svelte-app-fast-ubuntu/main/setup-svelte-environment.sh
 ```
 
 6. Make the second script executable:
